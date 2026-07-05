@@ -1,0 +1,42 @@
+.referral-details {
+  max-width: 500px;
+}
+.referral-details h1 {
+  font-size: 20px;
+  margin: 0 0 4px;
+}
+.referral-details h2 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #667085;
+  margin: 0 0 20px;
+}
+.details-list {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  margin: 0 0 16px;
+}
+.details-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #f2f4f7;
+  font-size: 14px;
+}
+.details-row:last-child {
+  border-bottom: none;
+}
+.details-row dt {
+  color: #667085;
+}
+.details-row dd {
+  margin: 0;
+  font-weight: 600;
+}
+.back-link {
+  color: #4f46e5;
+  text-decoration: none;
+  font-size: 14px;
+}

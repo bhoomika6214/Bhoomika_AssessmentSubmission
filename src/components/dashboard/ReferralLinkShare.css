@@ -1,0 +1,48 @@
+.referral-link-share {
+  background: #fff;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  margin-bottom: 20px;
+}
+.referral-link-share h3 {
+  margin: 0 0 12px;
+  font-size: 15px;
+}
+.share-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.share-row input {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid #d0d5dd;
+  border-radius: 6px;
+  font-size: 13px;
+  background: #f9fafb;
+}
+.share-row button {
+  padding: 8px 14px;
+  border: none;
+  background: #4f46e5;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+}
+.copied-toast {
+  font-size: 12px;
+  color: #027a48;
+}
+
+.referral-link-share h2 {
+  font-size: 15px;
+  margin: 0 0 12px;
+}
+.referral-link-share label {
+  display: block;
+  font-size: 13px;
+  color: #344054;
+  margin-bottom: 4px;
+}

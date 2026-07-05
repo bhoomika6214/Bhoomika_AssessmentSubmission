@@ -1,0 +1,17 @@
+.error-message {
+  padding: 16px;
+  background: #fef3f2;
+  border: 1px solid #fecdca;
+  border-radius: 8px;
+  color: #b42318;
+  font-size: 14px;
+}
+.retry-btn {
+  margin-top: 8px;
+  padding: 6px 14px;
+  background: #b42318;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

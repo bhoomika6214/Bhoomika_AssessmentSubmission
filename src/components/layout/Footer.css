@@ -1,0 +1,21 @@
+.app-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-top: 1px solid #eaecf0;
+  font-size: 13px;
+  color: #667085;
+  margin-top: 32px;
+}
+.app-footer nav {
+  display: flex;
+  gap: 16px;
+}
+.app-footer a {
+  color: #667085;
+  text-decoration: none;
+}
+.footer-copyright {
+  margin: 0;
+}

@@ -1,0 +1,29 @@
+.overview-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.metric-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.metric-value {
+  font-size: 26px;
+  font-weight: 700;
+  color: #101828;
+}
+.metric-label {
+  font-size: 13px;
+  color: #667085;
+}
+
+.overview-metrics-section h2 {
+  font-size: 16px;
+  margin: 0 0 12px;
+}
